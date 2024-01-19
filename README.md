@@ -2,7 +2,7 @@
 
 > All we have to decide is what to do with the time that is given us ~ _Gandalf_ 🧙🏻‍♂️
 
-Former Product Manager, turned Software Engineer after finding my passion and daring to make the switch. 
+Background in Network Engineering and ICT. Former Product Manager, turned Software Engineer after finding my passion and daring to make the switch. 
 
 Excited about building new things. 
 
@@ -44,4 +44,3 @@ Stuff that tickles my brain and I am currently learning (or on my to learn list)
 - Go
 - Docker
 - AWS
-
