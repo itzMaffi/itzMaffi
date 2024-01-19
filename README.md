@@ -44,3 +44,14 @@ Stuff that tickles my brain and I am currently learning (or on my to learn list)
 - Go
 - Docker
 - AWS
+
+### 📯 Let's connect
+
+I'm always happy to meet new people that share my passion. Reach out if you want to nerd and talk about web, design, cool new tech, anything above, Star Wars, tasty food (both eating and cooking), tipsy drinks (both drinking and making), Dungeons and Dragons, cool memes. 
+
+Happy to meet in person if you are located in Berlin 🐻. 
+
+You can find me on:
+
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maffeim/)
+
